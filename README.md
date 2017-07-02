@@ -1,9 +1,9 @@
 Deep Learning in het Nederlands
 =============
-
 Tensorflow in Dutch
 ------------
-In de reeks `Deep Learning in het Nederlands - Tensorflow in Dutch` maak je kennis met de methodes en technieken voor Deep Learning met Tensorflow. Experimenteer, duik in het diepe of leer bij met de 6 opdrachten. De volledige repository staat op mijn [Github](https://github.com/victorr0/Deep-Learning-Nederlands). 
+In de reeks `Deep Learning in het Nederlands - Tensorflow in Dutch` maak je kennis met de methodes en technieken voor Deep Learning met Tensorflow. 
+Experimenteer, duik in het diepe of leer bij met de 6 opdrachten. De volledige repository staat op mijn [Github](https://github.com/victorr0/Deep-Learning-Nederlands). 
 
 TensorFlow is een open source software bibliotheek voor Machine Learning waarmee je neurale netwerken kunt bouwen en trainen om patronen en correlaties te detecteren en te ontcijferen: [Tensorflow](https://github.com/tensorflow/tensorflow.git). 
 
@@ -21,9 +21,8 @@ Vereisten
 
 Allemaal gemakkelijk te installeren met Pythons Package Manager PIP3
 
-This is a permissions issue, and a popular answer is provided for Linux and Max OSX [here](http://stackoverflow.com/questions/21871479/docker-cant-connect-to-docker-daemon) on StackOverflow.
-
 
 Vragen/Problemen/Commentaar?
 -----------------------
 Vragen, tips, advies wordt gewaardeerd! 
+Post your issues of contribute aan het project. 
